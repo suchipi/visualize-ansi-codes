@@ -1,0 +1,26 @@
+{
+  "name": "visualize-ansi-codes",
+  "version": "1.0.0",
+  "description": "Replace ansi escape sequences with tokens indicating what they are.",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [
+    "ansi",
+    "color",
+    "print",
+    "format",
+    "test"
+  ],
+  "author": "Lily Scott <me@suchipi.com>",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "kleur": "^4.1.4",
+    "vitest": "^0.5.9"
+  }
+}
